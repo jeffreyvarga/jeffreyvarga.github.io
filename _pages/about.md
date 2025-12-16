@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Geography and Geospatial Science - April 2026
 
 profile:
   align: right
@@ -24,11 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! My name is Jeffrey Varga. I am a senior undergraduate studying Geography and Geospatial Science at Oregon State University.
+Hello, I am Jeffrey Varga. My GIS background includes spatial analysis, cartography, and Web GIS, with hands-on experience using ArcGIS Pro, ArcGIS Online, and dashboard development. I have worked with data discovery, preprocessing, coordinate systems, and publishing geospatial layers for web-based applications.
 
-My GIS background includes coursework in spatial analysis, cartography, and Web GIS, along with hands-on experience using ArcGIS Pro, ArcGIS Online, and geospatial data management workflows. I have applied these skills through academic projects and professional roles, including work as an undergraduate learning assistant supporting upper-division GIS courses. My interests center on environmental and human–environment applications of GIS, with a focus on clear, effective spatial communication and data-driven decision making.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
+My primary interests are in remote sensing and geospatial data creation, including the use of satellite imagery, derived datasets, and repeatable workflows to analyze environmental and human systems. Through coursework, research projects, and my role as an undergraduate learning assistant, I focus on building clean, well-documented datasets and using spatial analysis to produce reliable, interpretable results that support further analysis and decision making.
