@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Geography and Geospatial Science - April 2026
+subtitle: Geographer & Pianist
 
 profile:
   align: right
@@ -24,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello, I am Jeffrey Varga. My GIS background includes spatial analysis, cartography, and Web GIS, with hands-on experience using ArcGIS Pro, ArcGIS Online, and dashboard development. I have worked with data discovery, preprocessing, coordinate systems, and publishing geospatial layers for web-based applications.
+Hello, I am Jeffrey Varga. I am a senior at Oregon State University, studying a double major in GIS and Piano Performance. I will be graduating in April 2026.
+
+My GIS background includes spatial analysis, cartography, and Web GIS, with hands-on experience using ArcGIS Pro, ArcGIS Online, and dashboard development. I have worked with data discovery, preprocessing, coordinate systems, and publishing geospatial layers for web-based applications.
 
 My primary interests are in remote sensing and geospatial data creation, including the use of satellite imagery, derived datasets, and repeatable workflows to analyze environmental and human systems. Through coursework, research projects, and my role as an undergraduate learning assistant, I focus on building clean, well-documented datasets and using spatial analysis to produce reliable, interpretable results that support further analysis and decision making.
