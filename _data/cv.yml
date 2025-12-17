@@ -1,19 +1,9 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachleor of Science
+      institution: Oregon State University
+      year: April 2026
       description:
         - Description 1.
         - Description 2.
@@ -31,8 +21,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: GIS Project Student Intern
+      institution: Oregon Department of Fish and Wildlife
       year: 1933 - 1955
       description:
         - Description 1.
