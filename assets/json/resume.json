@@ -1,11 +1,12 @@
 {
   "basics": {
-    "name": "Jeffrey Varga",
-    "label": "Geographer",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "jwvarga@me.com",
-    "phone": "(541) 404-4052",
-    "url": "https://jeffreyvarga.github.io",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -50,15 +51,17 @@
       "location": "Corvallis, OR",
       "area": "Geography and Geospatial Science",
       "studyType": "Bachleor of Science",
-      "startDate": "09-01-2023",
-      "endDate": "04-01-2026",
-      "score": "9",
+      "startDate": "2023-09-01",
+      "endDate": "2026-04-01",
+      "score": "10"
+    },
+    {
       "institution": "Oregon State University",
       "location": "Corvallis, OR",
       "area": "Piano Performance",
       "studyType": "Bachleor of Music",
-      "startDate": "09-01-2023",
-      "endDate": "06-01-2025",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
       "score": "10"
     }
   ],
