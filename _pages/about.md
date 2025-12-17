@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Geographer & Pianist
+subtitle: **Geographer & Pianist**
 
 profile:
   align: right
