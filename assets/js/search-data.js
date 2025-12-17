@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "An overview of my academic background, technical skills, and applied experience in geography and geospatial science. My experiences highlight my ability to work with spatial data workflows, analytical tools, and cartographic communication in both academic and applied settings.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some of the projects I am most proud of.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
