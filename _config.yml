@@ -201,6 +201,7 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/dropdown.md
+  - _projects/1_project.md
   - _projects/2_project.md
   - _projects/3_project.md
   - _projects/2_project.md
