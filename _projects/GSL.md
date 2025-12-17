@@ -2,7 +2,7 @@
 layout: page
 title: GSL Dust Transport Regime
 description: Dust Transport Regimes and Public Health Implications at the Great Salt Lake
-img: assets/img/12.jpg
+img: assets/img/GSL_cover.png
 importance: 1
 category: work
 related_publications: true
