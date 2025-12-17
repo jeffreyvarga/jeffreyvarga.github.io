@@ -6,7 +6,6 @@
     "email": "jwvarga@me.com",
     "phone": "(541) 404-4052",
     "url": "https://jeffreyvarga.github.io",
-    "summary": "Senior undergraduate at OSU",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -53,7 +52,7 @@
       "studyType": "Bachleor of Science",
       "startDate": "09-01-2023",
       "endDate": "04-01-2026",
-      "score": "10",
+      "score": "9",
       "institution": "Oregon State University",
       "location": "Corvallis, OR",
       "area": "Piano Performance",
