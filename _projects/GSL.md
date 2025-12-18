@@ -5,7 +5,7 @@ description: Dust Transport Regimes and Public Health Implications at the Great 
 img: assets/img/GSL/GSL_cover.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 The full project report can be found here:
 
@@ -32,5 +32,17 @@ By combining remote sensing, atmospheric modeling, and public‐health data, I p
 </div>
 
 The layers with census tract asthma and COPD rates in ArcGIS Pro are used to evaluate spatial correlations. The analysis identifies roughly 1300 mi² (3350 km²), of exposed lakebed as a dominant likely dust source. Voxel modeling shows northwesterly winds frequently approaching and regularly exceeding 8 m/s nearby the dust region. Overlaying health data reveals that populations downwind exhibit notably higher asthma and COPD prevalence than upwind areas. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 3 Asthma.png" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 4 COPD.pngg" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption here.
+</div>
 
 These findings confirm that a small fraction of the lakebed drives most harmful dust emissions and that prevailing wind regimes deliver those emissions to densely populated corridors. The clear spatial correlation between modeled transport pathways and elevated respiratory rates emphasizes the public‐health significance of targeted dust‐suppression measures. Future work should involve integration with field validation PI-SWERL measurements, incorporation of seasonal or daily wind‐voxel time series, and refined spectral thresholds to reduce uncertainty and guide mitigation strategies.
