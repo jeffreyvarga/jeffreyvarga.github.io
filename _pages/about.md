@@ -34,14 +34,11 @@ Outside the geospatial world, I am a classically trained pianist with extensive 
 
 As an Eagle Scout and recipient of the Vigil Honor, I value leadership, adaptability, and community engagement, qualities I aim to bring into every professional setting.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GSL_cover.png" title="GSL Dust Transport Regime" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/HF2020_minmal.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/HFF2020_NBR.jpg" title="NBR of the 2020 Holiday Farm Fire as of September 8th" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GSL_cover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/GSL_cover.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
