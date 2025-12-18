@@ -38,7 +38,7 @@ The layers with census tract asthma and COPD rates in ArcGIS Pro are used to eva
         {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 3 Asthma.png" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 4 COPD.pngg" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 4 COPD.png" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
