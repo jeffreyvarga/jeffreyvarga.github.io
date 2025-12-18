@@ -2,7 +2,7 @@
 layout: page
 title: GSL Dust Transport Regime
 description: Dust Transport Regimes and Public Health Implications at the Great Salt Lake
-img: assets/img/GSL_cover.png
+img: assets/img/GSL/GSL_cover.png
 importance: 1
 category: work
 related_publications: true
@@ -21,6 +21,12 @@ The desiccation of Utah’s Great Salt Lake exposes fine, metal‐rich sediments
 
 By combining remote sensing, atmospheric modeling, and public‐health data, I pinpoint the lakebed areas most prone to harmful dust emissions and assess their correlation to health impacts to downwind population centers. I derived a Dry Bare Soil Index and two other spectral reflectance indices from Landsat 8–9 imagery, calibrating thresholds to map dust‐prone polygons. Wind speed and wind direction measurements at 100m, 500m, and 1,000m elevations were aggregated into a master dataset and interpolated through Empirical Bayesian Kriging 3D to create continuous voxel layers. 
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 5 Wind Both.png" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     Empirical Bayesian Kriging 3D interpolation of wind measurements at 100m, 500m and 1,000m elevations produced these continuous voxel layers for speed and direction. Average annual wind speeds exceed 8 m/s across significant portions of the voxel volume. Additionally, nearly the entire voxel showcases wind approaching the 8 m/s threshold (6.5 – 8 m/s). The average annual wind direction 3D voxel, when limited to display directional values of only 180 to 360° (the direction that leads to the Wasatch Front), showed extreme clustering of values directly over the exposed lakebed and dust-prone region. 
 </div>
