@@ -5,4 +5,3 @@ Hosted here, on GitHub, using Github Pages.
 jeffreyvarga.org
 www.jeffreyvarga.org
 jeffreyvarga.github.io
-
