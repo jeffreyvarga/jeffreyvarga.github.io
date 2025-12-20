@@ -46,3 +46,5 @@ The layers with census tract asthma and COPD rates in ArcGIS Pro are used to eva
 </div>
 
 These findings confirm that a small fraction of the lakebed drives most harmful dust emissions and that prevailing wind regimes deliver those emissions to densely populated corridors. The clear spatial correlation between modeled transport pathways and elevated respiratory rates emphasizes the public‐health significance of targeted dust‐suppression measures. Future work should involve integration with field validation PI-SWERL measurements, incorporation of seasonal or daily wind‐voxel time series, and refined spectral thresholds to reduce uncertainty and guide mitigation strategies.
+
+other figrues?
