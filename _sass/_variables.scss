@@ -23,16 +23,16 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
-$tan-color: #c28862 !default;
-$tan-color-dark: #754d37 !default;
+$tan-color: #EB5E28 !default;
+$tan-color-dark: #EB5E28 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #242322;
-$dark_brown: #383532;
-$light_brown: #ebe8e5;
+$grey-color-dark: #252422;
+$dark_brown: #403D39;
+$light_brown: #CCC5B9;
 
-$white-color: #F2F0EF  !default;
+$white-color: #FFFCF2  !default;
 $black-color: #000000 !default;
 
 // Theme colors
