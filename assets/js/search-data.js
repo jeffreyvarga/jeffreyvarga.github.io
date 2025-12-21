@@ -71,7 +71,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/JeffreyVarga_CV_12-21-25.pdf", "_blank");
+          window.open("/assets/pdf/JeffreyVarga_CV_12-21-25.pdf", "_blank");
         },
       },{
         id: 'social-email',
