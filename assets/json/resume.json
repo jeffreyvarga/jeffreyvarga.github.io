@@ -7,7 +7,7 @@
   "basics": {
     "name": "Jeffrey Varga",
     "email": "jwvarga@me.com",
-    "website": "jeffreyvarga.github.io",
+    "website": "jeffreyvarga.org",
     "location": {
       "address": "Corvallis, OR"
     },
@@ -15,7 +15,7 @@
   },
   "education": [
     {
-      "location": "Corvallis,OR",
+      "location": "Corvallis, OR",
       "area": "Geography and Geospatial Science",
       "studyType": "Bachelor of Science",
       "startDate": "Sep 2023",
