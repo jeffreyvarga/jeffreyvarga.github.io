@@ -61,7 +61,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-gsl-dust-transport-regime",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FireEthics/";
+            },},{id: "projects-gsl-dust-transport-regime",
           title: 'GSL Dust Transport Regime',
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
