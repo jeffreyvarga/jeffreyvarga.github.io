@@ -2,7 +2,7 @@
 layout: page
 title: Ocean Shores Proposed VES
 description: Proposed Vertical Evacuation Options in Ocean Shores East, Wasington. In partnership with the State of Washington Emergency Management Division
-img: assets/img/OSEast/OSEast_Cover.jpg
+img: assets\img\OSEast\OSEast_Cover.jpg
 importance: 1
 category: work
 related_publications: false
