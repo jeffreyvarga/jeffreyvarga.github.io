@@ -66,6 +66,11 @@ ninja.data = [{
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
               window.location.href = "/projects/GSL/";
+            },},{id: "projects-ocean-shores-proposed-ves",
+          title: 'Ocean Shores Proposed VES',
+          description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington. In partnership with the State of Washington Emergency Management Division",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/OSEast/";
             },},{
         id: 'social-cv',
         title: 'CV',
