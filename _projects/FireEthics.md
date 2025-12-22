@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ethics in Post-Fire Assessment
-description: Seeing Beyond the Burn: The good and the bad of remote sensing in wildfire assessment
+title: Ethics Within Fire Assessment
+description: Seeing Beyond the Burn: The good and the bad of remote sensing in wildfire assessment.
 img: assets/img/FireEthics/FireEthics_Cover.png
 importance: 3
 category: work
