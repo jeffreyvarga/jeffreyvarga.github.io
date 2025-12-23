@@ -28,7 +28,7 @@ Hello! My name is Jeffrey Varga, a senior at Oregon State University, double maj
 
 <hr>
 
-After stumvling across an entry-level cartography course during my first term at my community college, I've been passionate for cartography and GIS for many years now. Since then, I have done projects and work in many aspects of the geospatial world - from field data colleection to remote sensing.
+After stumbling across an entry-level cartography course during my first term at my community college, I've been passionate for cartography and GIS for many years now. Since then, I have done projects and work in many aspects of the geospatial world - from field data colleection to remote sensing.
 
 I’ve expanded my skills through advanced coursework in remote sensing, spatial statistics, and conservation planning. My latest GIS projects include modeling dust dispersion patterns from the shrinking Great Salt Lake and analyzing optimal locations for vertical evacuation structures for the Ocean Shores community in Washington. See my projects <a href="/projects">here</a>.
 
