@@ -61,16 +61,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/FireEthics/";
-            },},{id: "projects-gsl-dust-transport-regime",
+          section: "News",},{id: "projects-gsl-dust-transport-regime",
           title: 'GSL Dust Transport Regime',
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
               window.location.href = "/projects/GSL/";
+            },},{id: "projects-ethics-in-fire-assessment",
+          title: 'Ethics in Fire Assessment',
+          description: "An analysis and case study of the social and ethical side of post-fire assessment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HFF/";
             },},{id: "projects-ocean-shores-proposed-ves",
           title: 'Ocean Shores Proposed VES',
           description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington. In partnership with the State of Washington Emergency Management Division",
