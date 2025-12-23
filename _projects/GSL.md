@@ -57,4 +57,4 @@ These findings confirm that a small fraction of the lakebed drives most harmful 
 
 <hr>
 
-This project was completed in my Senior year for GEOG 460.
+This project was completed in my Senior year during GEOG 460.
