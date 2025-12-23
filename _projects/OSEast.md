@@ -8,7 +8,9 @@ category: work
 related_publications: false
 ---
 
-In partnership with the State of Washington Emergency Management Division.
+In partnership with the State of Washington Emergency Management Division, along with my teammates, Clark Dunford, Mckenzie Lattig, Anthony Marroquin, Emmaline Miller, and Amina Meselhe.
+
+<hr>
 
 See the full StoryMap <a href="https://storymaps.arcgis.com/stories/65aa9193efe04091a66d3edb45d61a25">at this link</a>
 
