@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! My name is Jeffrey Varga, a senior at Oregon State University, double majoring in Geospatial Science and Piano Performance, and set to graduate in June 2025 with my first degree, and my second in Winter 2026. My academic and professional work focuses on applying GIS, remote sensing, and spatial analysis to real-world environmental and conservation challenges.
+Hello! My name is Jeffrey Varga, a senior at Oregon State University, double majoring in Geospatial Science and Piano Performance. I graduated in June 2025 with my first degree (music), and my second in Winter 2026. My academic and professional work focuses on applying GIS, web GIS, remote sensing, and spatial analysis to real-world environmental and conservation challenges.
 
 <hr>
 
