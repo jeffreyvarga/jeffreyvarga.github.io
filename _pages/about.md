@@ -28,9 +28,9 @@ Hello! My name is Jeffrey Varga, a senior at Oregon State University, double maj
 
 <hr>
 
-While earning my AAOT and GIS certificate at Southwestern Oregon Community College, I completed a GIS internship with the Oregon Department of Fish and Wildlife. During this internship, I led the digitization of historic vegetation data across 1,000+ square miles of the Coquille River Basin to reconstruct a pre-European settlement landscape. I also developed a 3D model in Blender and presented the project at the 2023 Oregon Chapter meeting of the American Fisheries Society. In the same internship, I assisted with fieldwork targeting invasive Smallmouth Bass, collecting geospatial data and supporting native Coho salmon recovery.
+After stumvling across an entry-level cartography course during my first term at my community college, I've been passionate for cartography and GIS for many years now. Since then, I have done projects and work in many aspects of the geospatial world - from field data colleection to remote sensing.
 
-Since then, I’ve expanded my skills through advanced coursework in remote sensing, spatial statistics, atmospheric modellings, and conservation planning. My latest GIS projects include modeling dust dispersion patterns from the shrinking Great Salt Lake and analyzing optimal locations for vertical evacuation structures for the Ocean Shores community in Washington. See more about my projects <a href="/projects">here</a>.
+I’ve expanded my skills through advanced coursework in remote sensing, spatial statistics, and conservation planning. My latest GIS projects include modeling dust dispersion patterns from the shrinking Great Salt Lake and analyzing optimal locations for vertical evacuation structures for the Ocean Shores community in Washington. See my projects <a href="/projects">here</a>.
 
 Outside the geospatial world, I am a classically trained pianist with extensive solo and collaborative performance experience. I bring the same discipline and creative problem-solving from music into my GIS work.
 
