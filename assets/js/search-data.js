@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/projects/HFF/";
             },},{id: "projects-ocean-shores-proposed-ves",
           title: 'Ocean Shores Proposed VES',
-          description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington. In partnership with the State of Washington Emergency Management Division",
+          description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OSEast/";
             },},{
