@@ -71,6 +71,11 @@ ninja.data = [{
           description: "An analysis and case study of the social and ethical side of post-fire assessment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HFF/";
+            },},{id: "projects-a-3d-view-of-the-past",
+          title: 'A 3D View of the Past',
+          description: "A digital recreation of the historic Coquille river basin.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NR280/";
             },},{id: "projects-ocean-shores-proposed-ves",
           title: 'Ocean Shores Proposed VES',
           description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington.",
