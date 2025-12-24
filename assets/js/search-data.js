@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/projects/HFF/";
             },},{id: "projects-a-3d-view-of-the-past",
           title: 'A 3D View of the Past',
-          description: "A digital recreation of the historic Coquille river basin.",
+          description: "A three-dimensional digital recreation of the historic Coquille river basin pre-European settlement.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NR280/";
             },},{id: "projects-ocean-shores-proposed-ves",
