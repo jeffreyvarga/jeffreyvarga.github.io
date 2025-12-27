@@ -30,6 +30,8 @@ The desiccation of Utah’s Great Salt Lake exposes fine, metal‐rich sediments
 
 By combining remote sensing, atmospheric modeling, and public‐health data, I isolated the lakebed areas most prone to harmful dust emissions and assess their correlation to health impacts to downwind population centers. I derived a Dry Bare Soil Index and two other spectral reflectance indices from Landsat 8–9 imagery, calibrating thresholds to map dust‐prone polygons. Wind speed and wind direction measurements at 100m, 500m, and 1,000m elevations were aggregated into a master dataset and interpolated through Empirical Bayesian Kriging 3D to create continuous voxel layers. 
 
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/094ib82"></iframe>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/GSL/Fig. 5 Wind Both.png" title="Wind speed and direction voxels above 2D map" class="img-fluid rounded z-depth-1" %}
