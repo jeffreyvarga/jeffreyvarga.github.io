@@ -38,7 +38,16 @@ By combining remote sensing, atmospheric modeling, and public‐health data, I i
 <div class="caption">
     Empirical Bayesian Kriging 3D interpolation of wind measurements at 100m, 500m and 1,000m elevations produced these continuous voxel layers for speed and direction. Average annual wind speeds exceed 8 m/s across significant portions of the voxel volume. Additionally, nearly the entire voxel showcases wind approaching the 8 m/s threshold (6.5 – 8 m/s). The average annual wind direction 3D voxel, when limited to display directional values of only 180 to 360° (the direction that leads to the Wasatch Front), showed extreme clustering of values directly over the exposed lakebed and dust-prone region. 
 </div>
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/00WDfX"></iframe>
+<iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/00WDfX"></iframe><div style="display: flex; justify-content: center;">
+  <iframe
+    width="1080"
+    height="720"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen
+    src="https://arcg.is/00WDfX">
+  </iframe>
+</div>
 <div class="caption">
     Interactive web scene. 
 </div>
