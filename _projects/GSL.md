@@ -41,8 +41,8 @@ By combining remote sensing, atmospheric modeling, and public‐health data, I i
 
 <div style="display: flex; justify-content: center;">
   <iframe
-    width="1080"
-    height="720"
+    width="1920"
+    height="1080"
     frameborder="0"
     scrolling="no"
     allowfullscreen
