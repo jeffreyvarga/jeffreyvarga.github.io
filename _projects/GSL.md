@@ -28,9 +28,7 @@ Wind-blown dust from desiccating (evaporating) saline lakes is a growing environ
 
 The desiccation of Utah’s Great Salt Lake exposes fine, metal‐rich sediments that pose respiratory health risks when mobilized by wind. In recent years, this has become an increasingly important issue. The Great Salt Lake’s shrinking exposes toxic, metal-rich sediments that wind can carry into nearby communities, posing a public-health crisis by exacerbating asthma, COPD and other respiratory illnesses. Pinpointing the most active dust-source areas is therefore vital to directing mitigation efforts and protecting vulnerable populations. 
 
-By combining remote sensing, atmospheric modeling, and public‐health data, I isolated the lakebed areas most prone to harmful dust emissions and assess their correlation to health impacts to downwind population centers. I derived a Dry Bare Soil Index and two other spectral reflectance indices from Landsat 8–9 imagery, calibrating thresholds to map dust‐prone polygons. Wind speed and wind direction measurements at 100m, 500m, and 1,000m elevations were aggregated into a master dataset and interpolated through Empirical Bayesian Kriging 3D to create continuous voxel layers. 
-
-<iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/094ib82"></iframe>
+By combining remote sensing, atmospheric modeling, and public‐health data, I isolated the lakebed areas most prone to harmful dust emissions and assess their correlation to health impacts to downwind population centers. I derived a Dry Bare Soil Index and two other spectral reflectance indices from Landsat 8–9 imagery, calibrating thresholds to map dust‐prone polygons. Wind speed and wind direction measurements at 100m, 500m, and 1,000m elevations were aggregated into a master dataset and interpolated through Empirical Bayesian Kriging 3D to create continuous voxel layers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,6 +38,11 @@ By combining remote sensing, atmospheric modeling, and public‐health data, I i
 <div class="caption">
     Empirical Bayesian Kriging 3D interpolation of wind measurements at 100m, 500m and 1,000m elevations produced these continuous voxel layers for speed and direction. Average annual wind speeds exceed 8 m/s across significant portions of the voxel volume. Additionally, nearly the entire voxel showcases wind approaching the 8 m/s threshold (6.5 – 8 m/s). The average annual wind direction 3D voxel, when limited to display directional values of only 180 to 360° (the direction that leads to the Wasatch Front), showed extreme clustering of values directly over the exposed lakebed and dust-prone region. 
 </div>
+<iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/094ib82"></iframe>
+<div class="caption">
+    Interactive web scene. 
+</div>
+
 
 The layers with census tract asthma and COPD rates in ArcGIS Pro are used to evaluate spatial correlations. The analysis identifies roughly 1300 mi² (3350 km²), of exposed lakebed as a dominant likely dust source. Voxel modeling shows northwesterly winds frequently approaching and regularly exceeding 8 m/s nearby the dust region. Overlaying health data reveals that populations downwind exhibit notably higher asthma and COPD prevalence than upwind areas. 
 
