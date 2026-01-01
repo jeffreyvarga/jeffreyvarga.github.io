@@ -35,3 +35,9 @@ I’ve expanded my skills through advanced coursework in remote sensing, spatial
 Outside the geospatial world, I am a classically trained pianist with extensive solo and collaborative performance experience. I bring the same discipline and creative problem-solving from music into my GIS work.
 
 As an Eagle Scout and recipient of the Vigil Honor, I value leadership, adaptability, and community engagement, qualities I aim to bring into every professional setting.
+
+Hello everyone, my name is Jeffrey Varga. I am a senior at Oregon State University, double majoring in Geospatial Science and Piano Performance. I completed my first degree in music in June 2025 and expect to finish my GIS degree in Winter 2026, with this internship serving as my final academic step. I am also pursuing my second GIS certificate, and hope to complete that with one final course in the spring.
+
+My interest in GIS began somewhat unexpectedly through an entry-level cartography course during my first term at community college, and it quickly became the focus of my academic and professional goals. Since then, I have worked across a wide range of geospatial applications, including field data collection, 3D terrain modeling, remote sensing, spatial statistics, and web GIS. Recent projects I’ve done include modeling dust dispersion from the shrinking Great Salt Lake and analyzing optimal locations for vertical evacuation structures for the Ocean Shores community in Washington.
+
+Outside of GIS, I am a classically trained pianist with extensive solo and collaborative performance experience, and I am also an Eagle Scout and Vigil Honor recipient. 
