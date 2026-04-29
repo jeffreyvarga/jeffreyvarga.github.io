@@ -93,7 +93,7 @@
         "ArcMap",
         "GIS Programming"
       ],
-      "name": "GIS Tools"
+      "name": "GIS"
     },
     {
       "keywords": [
@@ -102,20 +102,9 @@
         "R Studio",
         "Blender",
         "Office",
-        "Creative Cloud",
-        "GSuite"
+        "Adobe"
       ],
-      "name": "Other"
-    },
-    {
-      "keywords": [
-        "Detail Focused",
-        "Collaboration",
-        "Technical Writing",
-        "Project Management",
-        "Problem Solving"
-      ],
-      "name": "Soft Skills"
+      "name": "Tools"
     }
   ],
    "certificates": [
