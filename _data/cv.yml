@@ -14,22 +14,19 @@
     - title: B.S. Geography and Geospatial Science
       institution: Oregon State University
       year: 2026
-      description:
-        - Description 1.
-        - Description 2.
     - title: B.M. Piano Performance
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 19202500
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Oregon State University
+      year: 2026
+    - title: Associates of Arts Oregon Transfer
+      institution: Southwwest Oregon Community College
+      year: 2022
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: GIS Analyst
+      institution: City of Eugene - Planning and Development Department
+      year: Jan 2026 - Present
       description:
         - Description 1.
         - Description 2.
