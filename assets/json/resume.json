@@ -20,15 +20,13 @@
       "studyType": "Bachelor of Science",
       "startDate": "Sep 2023",
       "endDate": "Mar 2026",
-      "institution": "Oregon State University",
-      "gpa": "3.96"
+      "institution": "Oregon State University"
     },
     {
       "institution": "Oregon State University",
       "location": "Corvallis, OR",
       "studyType": "Bachelor of Music",
       "area": "Piano Performance",
-      "gpa": "3.96",
       "startDate": "Sep 2023",
       "endDate": "Jun 2025"
     },
@@ -37,16 +35,14 @@
       "location": "Coos Bay, OR",
       "studyType": "Associates of Arts Oregon Transfer Degree",
       "area": "Geographic Information Science",
-      "gpa": "3.86",
       "startDate": "Sep 2019",
       "endDate": "Jun 2022"
     }
   ],
   "work": [
    {
-      "location": "Eugene, OR",
-      "position": "GIS Analyst for the Planning and Development Department",
-      "website": "",
+      "position": "City of Eugene GIS Analyst",
+      "location": "Eugene, OR",      
       "startDate": "Jan 2026",
       "endDate": "Present",
       "highlights": [
@@ -58,10 +54,9 @@
       "company": "Oregon State University"
     },
     {
-      "location": "Corvallis, OR",
       "position": "GIS & Spatial Analysis Undergraduate Learning Assistant",
-      "website": "",
       "startDate": "Sep 2025",
+      "location": "Corvallis, OR",
       "endDate": "Present",
       "highlights": [
         "Supported GIS instruction by assisting 70+ students with ArcGIS Online and Dashboard development.",
@@ -71,14 +66,14 @@
       "company": "Oregon State University"
     },
     {
+      "position": "GIS Internship",
+      "location": "Coquille, OR",      
       "highlights": [
         "Developed a high-resolution 3D model of the historical Coquille River Basin using Blender and GIS-derived inputs, enhancing ecological education and stakeholder communication. ",
         "Integrated spatial datasets and automated workflows using ArcGIS Pro, QGIS, and Python, creating a structured and reproducible modeling methodology. ",
         "Presented project methodology and visualizations to a professional audience at the American Fisheries Society Oregon Chapter (2023), communicating results to 100+ attendees."
       ],
       "company": "Oregon Department of Fish and Wildlife",
-      "position": "GIS Internship",
-      "location": "Coquille, OR",
       "startDate": "Jun 2022",
       "endDate": "Aug 2022"
     }
@@ -111,8 +106,7 @@
     {
       "name": "GIS Certificate of Completion ",
       "date": "2022-06-01",
-      "issuer": "Southwestern Oregon Community College",
-      "icon": "fa-solid fa-tag"
+      "issuer": "Southwestern Oregon Community College"
     },
     {
       "name": "Geographic Information Science Certificate",
