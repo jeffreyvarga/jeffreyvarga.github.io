@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "An overview of my academic background, technical skills, and applied experience in geography and geospatial science.",
+          description: "An overview of my academic background, technical skills, and applied experience in GIS.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
