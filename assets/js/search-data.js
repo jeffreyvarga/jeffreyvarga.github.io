@@ -61,12 +61,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-contextualized-housing-need",
-          title: 'Contextualized Housing Need',
-          description: "City of Eugene&#39;s Contextualized Housing Need locational analysis",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/CHN/";
-            },},{id: "projects-gsl-dust-transport-regime",
+          section: "News",},{id: "projects-gsl-dust-transport-regime",
           title: 'GSL Dust Transport Regime',
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
