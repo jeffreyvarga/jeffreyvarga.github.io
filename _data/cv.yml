@@ -42,22 +42,36 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
+      iteams:
+        - Presenter during Geography Awareness Week
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Presenter at the American Fisheries Society Oregon Chapter meeting
+    - year: 2023
+      iteams:
+        - Vigil Honor, OA
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Eagle Scount
 
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: GIS
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - ArcGIS Pro (Advanced)
+        - ArcGIS Online
+        - ArcMap
+        - Network Analyst
+        - Spatial Analyst
+        - Imagery Analyst
+        - ModelBuilder
+        - AGOL Dashboards
+    - title: Tools
       items:
-        - Description 1.
-        - Description 2.
+        - Python
+        - HTML
+        - Microsoft Office
+        - Adobe Creative Cloud
+        - RStudio
