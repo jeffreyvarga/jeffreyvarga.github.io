@@ -19,7 +19,7 @@
       "area": "Geography and Geospatial Science",
       "studyType": "Bachelor of Science",
       "startDate": "Sep 2023",
-      "endDate": "Apr 2026",
+      "endDate": "Mar 2026",
       "institution": "Oregon State University",
       "gpa": "3.96"
     },
@@ -43,27 +43,41 @@
     }
   ],
   "work": [
+   {
+      "location": "Eugene, OR",
+      "position": "GIS Analyst for the Planning and Development Department",
+      "website": "",
+      "startDate": "Jan 2026",
+      "endDate": "Present",
+      "highlights": [
+        "Developed a network dataset in ArcGIS Network Analyst to evaluate service-areas related to housing needs.",
+        "Compiled and evaluated housing and demographic datasets, supporting city-wide housing needs analysis across 50+ variables and datasets.",
+        "Conducted network-based spatial analyses of housing conditions using ArcGIS Pro, informing municipal planning decisions and future development scenarios across all of Eugene.",
+        "Performed quality control and spatial verification of historical records using SQL and GIS tools, improving data accuracy and consistency for 200+ records in the City of Eugene’s Cultural Resources database."
+      ],
+      "company": "Oregon State University"
+    },
     {
       "location": "Corvallis, OR",
-      "position": "CEOAS Undergraduate Learning Assistant",
+      "position": "GIS & Spatial Analysis Undergraduate Learning Assistant",
       "website": "",
       "startDate": "Sep 2025",
-      "endDate": "Dec 2025",
+      "endDate": "Present",
       "highlights": [
-        "Supported instruction in an upper-division GIS course by assisting students with ArcGIS Pro, ArcGIS Online, and Dashboard development.",
-        "Guided students through data preparation, workflows, and Web GIS development.",
+        "Supported GIS instruction by assisting 70+ students with ArcGIS Online and Dashboard development.",
+        "Guided students through data preparation and Web GIS workflows using ArcGIS Pro and ArcGIS Online, enabling successful development of over twenty web-based GIS projects. ",
         "Facilitated group work and contributed improved guidance and example materials to strengthen GIS-to-Web GIS workflow comprehension."
       ],
       "company": "Oregon State University"
     },
     {
       "highlights": [
-        "Conducted electrofishing surveys to monitor native Coho salmon populations and remove invasive Smallmouth Bass in the Coquille River Basin.",
-        "Recreated the historical environment in Blender for visualizations.",
-        "Presented project findings and visualizations at the American Fisheries Society Oregon Chapter meeting, March 2023."
+        "Developed a high-resolution 3D model of the historical Coquille River Basin using Blender and GIS-derived inputs, enhancing ecological education and stakeholder communication. ",
+        "Integrated spatial datasets and automated workflows using ArcGIS Pro, QGIS, and Python, creating a structured and reproducible modeling methodology. ",
+        "Presented project methodology and visualizations to a professional audience at the American Fisheries Society Oregon Chapter (2023), communicating results to 100+ attendees."
       ],
       "company": "Oregon Department of Fish and Wildlife",
-      "position": "GIS Student Internship Project",
+      "position": "GIS Internship",
       "location": "Coquille, OR",
       "startDate": "Jun 2022",
       "endDate": "Aug 2022"
@@ -75,7 +89,6 @@
       "keywords": [
         "ArcGIS Pro",
         "ArcGIS Online",
-        "ModelBuilder",
         "QGIS",
         "ArcMap",
         "GIS Programming"
@@ -107,10 +120,15 @@
   ],
    "certificates": [
     {
-      "name": "Geographic Information Systems",
+      "name": "GIS Certificate of Completion ",
       "date": "2022-06-01",
       "issuer": "Southwestern Oregon Community College",
       "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Geographic Information Science Certificate",
+      "date": "2026-03-13",
+      "issuer": "Oregon State University"
     }
   ],
   "awards": [
