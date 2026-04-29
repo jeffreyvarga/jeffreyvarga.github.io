@@ -43,7 +43,7 @@
    {
       "position": "City of Eugene GIS Analyst",
       "location": "Eugene, OR",      
-      "startDate": "Jan 2026",
+      "startDate": "01/01/2026",
       "endDate": "Present",
       "highlights": [
         "Developed a network dataset in ArcGIS Network Analyst to evaluate service-areas related to housing needs.",
