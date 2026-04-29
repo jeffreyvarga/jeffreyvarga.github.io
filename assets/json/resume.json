@@ -56,14 +56,14 @@
     {
       "position": "GIS Internship",
       "location": "Coquille, OR",      
-      "highlights": [
+      "startDate": "Jun 2022",
+      "endDate": "Aug 2022",
+            "highlights": [
         "Developed a high-resolution 3D model of the historical Coquille River Basin using Blender and GIS-derived inputs, enhancing ecological education and stakeholder communication. ",
         "Integrated spatial datasets and automated workflows using ArcGIS Pro, QGIS, and Python, creating a structured and reproducible modeling methodology. ",
         "Presented project methodology and visualizations to a professional audience at the American Fisheries Society Oregon Chapter (2023), communicating results to 100+ attendees."
       ],
-      "company": "Oregon Department of Fish and Wildlife",
-      "startDate": "Jun 2022",
-      "endDate": "Aug 2022"
+      "company": "Oregon Department of Fish and Wildlife"
     }
   ],
   "skills": [
