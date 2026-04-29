@@ -22,32 +22,22 @@
         - Compiled and evaluated housing and demographic datasets, supporting city-wide housing needs analysis across 50+ variables and datasets.
         - Conducted network-based spatial analyses of housing conditions using ArcGIS Pro, informing municipal planning decisions and future development scenarios across all of Eugene.
         - Performed quality control and spatial verification of historical records using SQL and GIS tools, improving data accuracy and consistency for 200+ records in the City of Eugene’s Cultural Resources database.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+   
+    - title: GIS & Spatial Analysis Undergraduate Learning Assistant
+      institution: CEOAS, Oregon State University
+      year: Sep 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Supported GIS instruction by assisting 70+ students with ArcGIS Online and Dashboard development.
+        - Guided students through data preparation and Web GIS workflows using ArcGIS Pro and ArcGIS Online, enabling successful development of over twenty web-based GIS projects. 
+        - Facilitated group work and contributed improved guidance and example materials to strengthen GIS-to-Web GIS workflow comprehension.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: GIS Internship
+      institution: Oregon Department of Fish and Wildlife
+      year: Jun 2022 - Aug 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Developed a high-resolution 3D model of the historical Coquille River Basin using Blender and GIS-derived inputs, enhancing ecological education and stakeholder communication. 
+        - Integrated spatial datasets and automated workflows using ArcGIS Pro, QGIS, and Python, creating a structured and reproducible modeling methodology. 
+        - Presented project methodology and visualizations to a professional audience at the American Fisheries Society Oregon Chapter (2023), communicating results to 100+ attendees.
 
 - title: Honors and Awards
   type: time_table
