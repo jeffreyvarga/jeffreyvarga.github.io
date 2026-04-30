@@ -39,12 +39,18 @@
         - Integrated spatial datasets and automated workflows using ArcGIS Pro, QGIS, and Python, creating a structured and reproducible modeling methodology. 
         - Presented project methodology and visualizations to a professional audience at the American Fisheries Society Oregon Chapter (2023), communicating results to 100+ attendees.
 
-- title: Honors and Awards
+- title: Honors and Activates
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - OrUISA GIS in Action 2026 Attendee
     - year: 2025
       items:
         - Presenter during Geography Awareness Week
+    - year: 2025
+      items:
+        - OrUISA GIS in Action 2025 Attendee
     - year: 2023
       items:
         - Presenter at the American Fisheries Society Oregon Chapter meeting
