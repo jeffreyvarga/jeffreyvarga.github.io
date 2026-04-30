@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p><strong>Geographer and Pianist</strong>
+subtitle: <p><strong>GIS and Piano</strong>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello, my name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
+Hello, my name is Jeffrey Varga. I am a graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
 
 <hr>
 
