@@ -81,11 +81,6 @@ ninja.data = [{
           description: "Proposed Vertical Evacuation Options in Ocean Shores East, Wasington.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OSEast/";
-            },},{id: "projects-ufo-sightings-in-california",
-          title: 'UFO Sightings in California',
-          description: "Quantitative Spatial Statistical Analysis of UFO Sightings in California",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/UFO/";
             },},{
         id: 'social-email',
         title: 'email',
