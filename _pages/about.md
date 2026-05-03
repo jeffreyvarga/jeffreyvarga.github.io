@@ -42,9 +42,9 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
 <section class="highlighted-projects mt-5">
  
-  <h2 class="section-heading">selected projects</h2>
+  <h2 class="section-heading">Selected Projects</h2>
   <p class="section-subheading">
-    A few things I've been building.
+    A couple of my favorite recent projects.
     <a href="{{ '/projects/' | relative_url }}">See all projects →</a>
   </p>
  
@@ -52,18 +52,9 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
  
     <!-- ── PROJECT 1 ─────────────────────────────────────── -->
     <article class="hp-card">
-      <div class="hp-card__header">
-        <span class="hp-tag">deep learning</span>
-        <span class="hp-tag">NLP</span>
-      </div>
-      <div class="hp-card__icon" aria-hidden="true">
-        <i class="fa-solid fa-brain"></i>
-      </div>
-      <h3 class="hp-card__title">Semantic Search Engine</h3>
+      <h3 class="hp-card__title">City of Eugene's Contextualized Housing Need</h3>
       <p class="hp-card__desc">
-        Built a dense-retrieval pipeline using bi-encoders and FAISS indexing
-        to search 10 M+ documents in under 100 ms. Achieves MRR@10 of 0.74
-        on the BEIR benchmark.
+        text here
       </p>
       <div class="hp-card__footer">
         <a href="{{ '/projects/semantic-search/' | relative_url }}"
@@ -82,18 +73,9 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
  
     <!-- ── PROJECT 2 ─────────────────────────────────────── -->
     <article class="hp-card">
-      <div class="hp-card__header">
-        <span class="hp-tag">reinforcement learning</span>
-        <span class="hp-tag">robotics</span>
-      </div>
-      <div class="hp-card__icon" aria-hidden="true">
-        <i class="fa-solid fa-robot"></i>
-      </div>
-      <h3 class="hp-card__title">RL for Dexterous Manipulation</h3>
+      <h3 class="hp-card__title">GSL Dust Transport</h3>
       <p class="hp-card__desc">
-        Trained a multi-fingered robot hand to solve a Rubik's Cube using
-        domain randomisation and PPO. Policy transfers zero-shot from
-        simulation to a real Allegro hand.
+        text here
       </p>
       <div class="hp-card__footer">
         <a href="{{ '/projects/rl-manipulation/' | relative_url }}"
