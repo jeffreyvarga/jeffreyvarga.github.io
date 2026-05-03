@@ -42,7 +42,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
 <section class="highlighted-projects mt-5">
 
-  <h2 class="section-heading">Selected Projects</h2>
+  <h2 class="section-heading">Featured Projects</h2>
   <p class="section-subheading">
     A few recent projects of mine.
     <a href="{{ '/projects/' | relative_url }}">See all projects →</a>
