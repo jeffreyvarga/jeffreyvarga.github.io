@@ -1,0 +1,119 @@
+// _sass/_projects-cards.scss
+// Styles the projects page cards to match the CV and highlighted-projects aesthetic.
+// Add "projects-cards" to your @import list in assets/css/main.scss after "cv-cards".
+
+.projects {
+
+  // ── Category heading ─────────────────────────────────────
+  h2.category {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    padding-bottom: 0.4rem;
+    margin-top: 2rem;
+    margin-bottom: 1.25rem;
+    text-align: left; // override al-folio's right-align
+  }
+
+  // ── Card ─────────────────────────────────────────────────
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card.hoverable {
+    background: var(--global-card-bg-color, var(--global-bg-color));
+    border: 1px solid var(--global-divider-color) !important;
+    border-radius: 12px !important;
+    overflow: hidden;
+    box-shadow: none !important;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    height: 100%;
+
+    &:hover {
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.09) !important;
+      transform: translateY(-2px);
+    }
+  }
+
+  // ── Cover image ───────────────────────────────────────────
+  .card-img-top {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+    border-radius: 0 !important; // overflow:hidden on card handles corners
+  }
+
+  // ── Card body ─────────────────────────────────────────────
+  .card-body {
+    padding: 1.1rem 1.3rem 1rem !important;
+  }
+
+  // ── Title ─────────────────────────────────────────────────
+  .card-title {
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    color: var(--global-text-color) !important;
+    margin-bottom: 0.4rem !important;
+    line-height: 1.3;
+    transition: color 0.15s ease;
+  }
+
+  // ── Description ───────────────────────────────────────────
+  .card-text {
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--global-text-color-light) !important;
+    margin-bottom: 0.75rem;
+  }
+
+  // ── GitHub icon row ───────────────────────────────────────
+  .github-icon {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    .icon a {
+      color: var(--global-text-color-light);
+      font-size: 1.1rem;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: var(--global-theme-color);
+        text-decoration: none;
+      }
+    }
+
+    .stars {
+      font-size: 0.78rem;
+      color: var(--global-text-color-light);
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+  }
+
+  // ── Grid spacing ──────────────────────────────────────────
+  .col {
+    padding-bottom: 1.25rem;
+  }
+
+  // ── Responsive ────────────────────────────────────────────
+  @media (max-width: 576px) {
+    .card-img-top {
+      height: 180px;
+    }
+  }
+}
