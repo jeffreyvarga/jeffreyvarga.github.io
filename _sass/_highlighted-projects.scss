@@ -1,0 +1,157 @@
+// _sass/_highlighted-projects.scss
+// Import this in assets/css/main.scss with: @import "highlighted-projects";
+// Uses al-folio CSS variables — adapts to light/dark mode automatically.
+
+// ── Section shell ──────────────────────────────────────────
+.highlighted-projects {
+  padding-bottom: 2rem;
+}
+
+.section-heading {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.25rem;
+  color: var(--global-text-color);
+}
+
+.section-subheading {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 2rem;
+
+  a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// ── Grid ───────────────────────────────────────────────────
+.hp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+// ── Card ───────────────────────────────────────────────────
+.hp-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--global-card-bg-color, var(--global-bg-color));
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  overflow: hidden; // keeps cover image corners clipped
+  padding: 0 0 1.1rem; // no top padding — image sits flush
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.09);
+    transform: translateY(-2px);
+  }
+}
+
+// ── Cover image ────────────────────────────────────────────
+.hp-card__img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+  // border-radius handled by overflow:hidden on the card
+}
+
+// ── Tags row ───────────────────────────────────────────────
+.hp-card__header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 0.75rem;
+  padding: 0 1.4rem;
+}
+
+.hp-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 100px;
+  background: var(--global-theme-color);
+  color: #fff;
+  opacity: 0.85;
+}
+
+// ── Body ───────────────────────────────────────────────────
+.hp-card__title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  padding: 0 1.4rem;
+  color: var(--global-text-color);
+  line-height: 1.3;
+}
+
+.hp-card__desc {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--global-text-color-light);
+  padding: 0 1.4rem;
+  flex: 1;
+  margin-bottom: 1.25rem;
+}
+
+// ── Footer buttons ─────────────────────────────────────────
+.hp-card__footer {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 0 1.4rem;
+}
+
+.hp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+}
+
+.hp-btn--primary {
+  background: var(--global-theme-color);
+  color: #fff;
+
+  &:hover {
+    opacity: 0.88;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.hp-btn--ghost {
+  background: transparent;
+  color: var(--global-text-color-light);
+  border: 1px solid var(--global-divider-color);
+
+  &:hover {
+    background: var(--global-hover-color);
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
+}
+
+// ── Responsive ─────────────────────────────────────────────
+@media (max-width: 480px) {
+  .hp-grid {
+    grid-template-columns: 1fr;
+  }
+}
