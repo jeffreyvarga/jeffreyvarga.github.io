@@ -65,6 +65,11 @@ ninja.data = [{
           title: 'GSL Dust Transport Regime',
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-gsl-dust-transport-regime",
+          title: 'GSL Dust Transport Regime',
+          description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/GSL/";
             },},{id: "projects-ethics-in-fire-assessment",
           title: 'Ethics in Fire Assessment',
