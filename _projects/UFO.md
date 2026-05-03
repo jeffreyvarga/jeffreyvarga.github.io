@@ -3,7 +3,7 @@ layout: page
 title: UFO Sightings in California
 description: Quantitative Spatial Statistical Analysis of UFO Sightings in California
 img: assets/img/UFO/UFO_Cover.png
-importance: 5
+importance: 6
 category: work
 related_publications: false
 ---
