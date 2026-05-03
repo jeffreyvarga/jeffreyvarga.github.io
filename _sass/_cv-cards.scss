@@ -2,6 +2,11 @@
 // Targets the exact HTML al-folio generates for cv.yml time_table and nested_list types.
 // Add "cv-cards" to your @import list in assets/css/main.scss after "cv".
 
+// ── CV page title ────────────────────────────────────────
+.post-title {
+  font-weight: 700 !important;
+}
+
 .cv {
 
   // ── Section card shell ───────────────────────────────────
