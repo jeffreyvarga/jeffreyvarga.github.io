@@ -52,7 +52,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
     <!-- ── PROJECT 1 — replace with your real project ── -->
     <article class="hp-card">
-      <img src="{{ '/assets/img/projects/project-1-cover.png' | relative_url }}"
+      <img src="{{ '/assets/img/CHN/CHN_Cover.png' | relative_url }}"
            alt="Project 1 screenshot"
            class="hp-card__img" />
       <div class="hp-card__header">
@@ -82,7 +82,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
     <!-- ── PROJECT 2 — replace with your real project ── -->
     <article class="hp-card">
-      <img src="{{ '/assets/img/projects/project-2-cover.png' | relative_url }}"
+      <img src="{{ '/assets/img/GSL/GSL_Cover.png' | relative_url }}"
            alt="Project 2 screenshot"
            class="hp-card__img" />
       <div class="hp-card__header">
