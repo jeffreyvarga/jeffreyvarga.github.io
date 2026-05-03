@@ -24,8 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<strong>Professional Summary</strong>
-
 GIS Analyst experienced in municipal planning support, housing needs analysis, and applied spatial modeling for public-sector decision-making. Experienced in spatial analysis, network modeling, geospatial data management, and cartographic communication. Produces GIS outputs that translate complex datasets into actionable insights for planners, advisory committees, and stakeholders in Oregon land use contexts. 
 
 <hr>
