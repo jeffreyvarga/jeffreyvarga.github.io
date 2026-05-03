@@ -42,9 +42,9 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
 <section class="highlighted-projects mt-5">
 
-  <h2 class="section-heading">selected projects</h2>
+  <h2 class="section-heading">Selected Projects</h2>
   <p class="section-subheading">
-    A few things I've been working on.
+    A few recent projects of mine.
     <a href="{{ '/projects/' | relative_url }}">See all projects →</a>
   </p>
 
@@ -57,7 +57,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
            class="hp-card__img" />
       <div class="hp-card__header">
         <span class="hp-tag">network analysis</span>
-        <span class="hp-tag">ArcGIS</span>
+        <span class="hp-tag">Urban Planning</span>
       </div>
       <h3 class="hp-card__title">Housing Accessibility Network Model</h3>
       <p class="hp-card__desc">
@@ -66,7 +66,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
         demographic datasets for contextualized planning analysis.
       </p>
       <div class="hp-card__footer">
-        <a href="{{ '/projects/housing-accessibility/' | relative_url }}"
+        <a href="{{ '/projects/CHN/' | relative_url }}"
            class="hp-btn hp-btn--primary">
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
@@ -82,15 +82,16 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
       <div class="hp-card__header">
         <span class="hp-tag">spatial modeling</span>
         <span class="hp-tag">LiDAR</span>
+        <span> class="hp=tag">remote sensing</span>
       </div>
       <h3 class="hp-card__title">Great Salt Lake Dust Dispersion Model</h3>
       <p class="hp-card__desc">
         Modeled dust dispersion from the shrinking Great Salt Lake using
-        LiDAR elevation data and atmospheric inputs to assess health and
+        LiDAR and atmospheric data interpolation to assess health and
         environmental risk across surrounding communities.
       </p>
       <div class="hp-card__footer">
-        <a href="{{ '/projects/great-salt-lake/' | relative_url }}"
+        <a href="{{ '/projects/GSL/' | relative_url }}"
            class="hp-btn hp-btn--primary">
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
