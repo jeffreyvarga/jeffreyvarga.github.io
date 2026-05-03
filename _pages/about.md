@@ -82,7 +82,7 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
       <div class="hp-card__header">
         <span class="hp-tag">spatial modeling</span>
         <span class="hp-tag">LiDAR</span>
-        <span> class="hp-tag">remote sensing</span>
+        <span class="hp-tag">remote sensing</span>
       </div>
       <h3 class="hp-card__title">Great Salt Lake Dust Dispersion Model</h3>
       <p class="hp-card__desc">
