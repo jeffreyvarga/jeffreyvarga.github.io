@@ -71,12 +71,6 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
         </a>
-        <a href="https://github.com/yourusername/housing-accessibility"
-           class="hp-btn hp-btn--ghost"
-           target="_blank" rel="noopener">
-          <i class="fa-brands fa-github" style="font-size:13px;"></i>
-          Code
-        </a>
       </div>
     </article>
 
@@ -100,12 +94,6 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
            class="hp-btn hp-btn--primary">
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
-        </a>
-        <a href="https://github.com/yourusername/great-salt-lake"
-           class="hp-btn hp-btn--ghost"
-           target="_blank" rel="noopener">
-          <i class="fa-brands fa-github" style="font-size:13px;"></i>
-          Code
         </a>
       </div>
     </article>
