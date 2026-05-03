@@ -5,6 +5,4 @@ title: Curriculum Vitae
 nav: true
 # cv_pdf: JeffreyVarga_CV_12-21-25.pdf # you can also use external links here
 description: An overview of my academic background, skills, and experience in GIS.
-toc:
-  sidebar: left
 ---
