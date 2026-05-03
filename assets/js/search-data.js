@@ -66,6 +66,11 @@ ninja.data = [{
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-contextualized-housing-need",
+          title: 'Contextualized Housing Need',
+          description: "The City of Eugene&#39;s Contextualized Housing Need Locational Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CHN/";
             },},{id: "projects-gsl-dust-transport-regime",
           title: 'GSL Dust Transport Regime',
           description: "Dust Transport Regimes and Public Health Implications at the Great Salt Lake",
