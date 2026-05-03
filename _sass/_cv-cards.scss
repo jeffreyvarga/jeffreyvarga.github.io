@@ -88,8 +88,8 @@
       padding: 0 4px 0 0 !important;
       vertical-align: middle !important;
       color: var(--global-text-color-light);
-      font-size: 0.85rem;
-      line-height: 1.4;
+      font-size: 1rem;
+      line-height: 1.75;
     }
 
     // Hide the building icon — it adds visual clutter
@@ -106,14 +106,14 @@
 
     li {
       padding: 0 !important;
-      font-size: 0.85rem;
-      line-height: 1.65;
-      color: var(--global-text-color-light);
+      font-size: 1rem;
+      line-height: 1.75;
+      color: var(--global-text-color) !important;
       margin-bottom: 0.2rem;
 
       span.item {
-        font-size: 0.85rem;
-        color: var(--global-text-color-light);
+        font-size: 1rem;
+        color: var(--global-text-color) !important;
       }
 
       &:last-child {
@@ -151,9 +151,9 @@
       padding: 0 !important;
 
       span.subitem {
-        font-size: 0.85rem;
-        color: var(--global-text-color-light);
-        line-height: 1.8;
+        font-size: 1rem;
+        color: var(--global-text-color);
+        line-height: 1.75;
       }
     }
   }
