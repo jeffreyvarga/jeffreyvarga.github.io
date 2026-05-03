@@ -37,3 +37,79 @@ Professionally, I have worked as a GIS Analyst with the City of Eugene Planning 
 My project work further reflects this applied focus. Recent projects include modeling dust dispersion from the shrinking Great Salt Lake using LiDAR and atmospheric data, and conducting network-based evacuation analysis to identify optimal vertical evacuation structure locations for the Ocean Shores community in Washington.
 
 Outside of GIS, I am a classically trained pianist with extensive solo and collaborative performance experience. I am also an Eagle Scout and a recipient of the Vigil Honor.
+
+<hr>
+
+<section class="highlighted-projects mt-5">
+ 
+  <h2 class="section-heading">selected projects</h2>
+  <p class="section-subheading">
+    A few things I've been building.
+    <a href="{{ '/projects/' | relative_url }}">See all projects →</a>
+  </p>
+ 
+  <div class="hp-grid">
+ 
+    <!-- ── PROJECT 1 ─────────────────────────────────────── -->
+    <article class="hp-card">
+      <div class="hp-card__header">
+        <span class="hp-tag">deep learning</span>
+        <span class="hp-tag">NLP</span>
+      </div>
+      <div class="hp-card__icon" aria-hidden="true">
+        <i class="fa-solid fa-brain"></i>
+      </div>
+      <h3 class="hp-card__title">Semantic Search Engine</h3>
+      <p class="hp-card__desc">
+        Built a dense-retrieval pipeline using bi-encoders and FAISS indexing
+        to search 10 M+ documents in under 100 ms. Achieves MRR@10 of 0.74
+        on the BEIR benchmark.
+      </p>
+      <div class="hp-card__footer">
+        <a href="{{ '/projects/semantic-search/' | relative_url }}"
+           class="hp-btn hp-btn--primary">
+          <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
+          Read more
+        </a>
+        <a href="https://github.com/yourusername/semantic-search"
+           class="hp-btn hp-btn--ghost"
+           target="_blank" rel="noopener">
+          <i class="fa-brands fa-github" style="font-size:13px;"></i>
+          Code
+        </a>
+      </div>
+    </article>
+ 
+    <!-- ── PROJECT 2 ─────────────────────────────────────── -->
+    <article class="hp-card">
+      <div class="hp-card__header">
+        <span class="hp-tag">reinforcement learning</span>
+        <span class="hp-tag">robotics</span>
+      </div>
+      <div class="hp-card__icon" aria-hidden="true">
+        <i class="fa-solid fa-robot"></i>
+      </div>
+      <h3 class="hp-card__title">RL for Dexterous Manipulation</h3>
+      <p class="hp-card__desc">
+        Trained a multi-fingered robot hand to solve a Rubik's Cube using
+        domain randomisation and PPO. Policy transfers zero-shot from
+        simulation to a real Allegro hand.
+      </p>
+      <div class="hp-card__footer">
+        <a href="{{ '/projects/rl-manipulation/' | relative_url }}"
+           class="hp-btn hp-btn--primary">
+          <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
+          Read more
+        </a>
+        <a href="https://github.com/yourusername/rl-manipulation"
+           class="hp-btn hp-btn--ghost"
+           target="_blank" rel="noopener">
+          <i class="fa-brands fa-github" style="font-size:13px;"></i>
+          Code
+        </a>
+      </div>
+    </article>
+ 
+  </div><!-- /.hp-grid -->
+ 
+</section>
