@@ -79,16 +79,21 @@
       items:
         - ArcGIS Pro (Advanced)
         - ArcGIS Online
+        - ArcGIS StoryMaps
         - ArcMap
         - Network Analyst
         - Spatial Analyst
         - Imagery Analyst
         - ModelBuilder
         - AGOL Dashboards
+        - QGIS
     - title: Tools
       items:
         - Python
         - HTML
+        - SQL
         - Microsoft Office
         - Adobe Creative Cloud
         - RStudio
+        - Blender
+        - Git and GitHub
