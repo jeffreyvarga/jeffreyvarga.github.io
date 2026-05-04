@@ -29,7 +29,7 @@ GIS Analyst experienced in municipal planning support, housing needs analysis, a
 
 <h2 class="about-section-heading">About Me</h2>
 
-Hello! my name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
+Hello! My name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
 
 My interest in GIS began through an introductory cartography course and quickly developed into a central academic and professional focus. Since then, I have built experience across spatial modeling, remote sensing, network analysis, 3D visualization, and Web GIS, with an emphasis on integrating complex datasets and developing structured analytical workflows.
 
