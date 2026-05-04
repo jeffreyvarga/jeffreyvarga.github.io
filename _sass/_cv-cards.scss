@@ -55,6 +55,16 @@
     }
   }
 
+  // ── Row alignment — keep year and title vertically centered ─
+  .list-group-item .row {
+    align-items: center;
+  }
+
+  // Override al-folio's mt-2 that pushes content column down
+  .list-group-item .col-xs-10 {
+    margin-top: 0 !important;
+  }
+
   // ── Year badge ───────────────────────────────────────────
   .list-group-item .badge.danger-color-dark,
   .list-group-item .badge {
@@ -81,11 +91,11 @@
 
   // ── Entry title (degree / job title) ────────────────────
   h6.title {
-    font-size: 1.0rem !important;
+    font-size: 0.97rem !important;
     font-weight: 600 !important;
     color: var(--global-text-color) !important;
     margin-bottom: 0.15rem !important;
-    line-height: 1.0;
+    line-height: 1.3;
   }
 
   // ── Institution table — collapse spacing, hide icon ──────
@@ -98,7 +108,7 @@
     td.institution {
       padding: 0 4px 0 0 !important;
       vertical-align: middle !important;
-      color: var(--global-text-color);
+      color: var(--global-text-color-light);
       font-size: 1rem;
       font-style: italic;
       line-height: 1.75;
@@ -119,7 +129,7 @@
     li {
       padding: 0 !important;
       font-size: 1rem;
-      line-height: 1.3;
+      line-height: 1.75;
       color: var(--global-text-color) !important;
       margin-bottom: 0.2rem;
 
