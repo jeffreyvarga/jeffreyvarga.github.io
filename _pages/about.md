@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: assets/img/prof_pic.jpg
+  image: profile_picture2.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Corvallis, OR</p>
