@@ -28,15 +28,15 @@ GIS Analyst experienced in municipal planning support, housing needs analysis, a
 
 <hr>
 
-Hello! my name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
+Hello, my name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science and a completed degree in Piano Performance. I also hold GIS certifications, reflecting a strong applied foundation in geospatial analysis.
 
-My interest in GIS began through an introductory cartography course and quickly developed into a central academic and professional focus. Since then, I have built experience across spatial modeling, remote sensing, network analysis, 3D visualization, and Web GIS, with an emphasis on integrating complex datasets and developing structured analytical workflows.
+My interest in GIS began in an introductory cartography course and has since developed into a focused academic and professional path. I have experience in spatial modeling, remote sensing, network analysis, 3D visualization, and Web GIS, with an emphasis on integrating complex datasets and building clear analytical workflows.
 
-Professionally, I have worked as a GIS Analyst with the City of Eugene Planning and Development Department, where I supported municipal planning through spatial analysis, data management, and applied research. My work included developing a network dataset in ArcGIS Network Analyst to evaluate housing accessibility, integrating housing and demographic datasets for contextualized housing need analysis, and performing quality control on the City's Historic and Cultural Resources database.
+Professionally, I worked as a GIS Analyst with the City of Eugene Planning and Development Department, where I supported municipal planning through spatial analysis, data management, and applied research. This included developing a network dataset to evaluate housing accessibility, integrating housing and demographic data for housing needs analysis, and maintaining the City’s Historic and Cultural Resources database.
 
-My project work further reflects this applied focus. Recent projects include modeling dust dispersion from the shrinking Great Salt Lake using LiDAR and atmospheric data, and conducting network-based evacuation analysis to identify optimal vertical evacuation structure locations for the Ocean Shores community in Washington.
+My project work includes modeling dust dispersion from the shrinking Great Salt Lake using LiDAR and atmospheric data, and conducting network-based tsunami evacuation analysis for optimal vertical evacuation site placement in Ocean Shores, Washington.
 
-Outside of GIS, I am a classically trained pianist with extensive solo and collaborative performance experience. I am also an Eagle Scout and a recipient of the Vigil Honor.
+Outside of GIS, I am a classically trained pianist with extensive solo and collaborative performance experience, as well as an Eagle Scout and Vigil Honor recipient.
 
 <hr>
 
