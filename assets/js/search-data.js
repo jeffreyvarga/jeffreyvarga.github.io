@@ -76,6 +76,11 @@ ninja.data = [{
           description: "An analysis and case study of the social and ethical side of post-fire assessment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HFF/";
+            },},{id: "projects-eugene-land-use-designation-map",
+          title: 'Eugene Land Use Designation Map',
+          description: "Land Use Designation Map for the City of Eugene",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LUM/";
             },},{id: "projects-a-3d-view-of-the-past",
           title: 'A 3D View of the Past',
           description: "A three-dimensional digital recreation of the historic Coquille river basin pre-European settlement.",
