@@ -12,8 +12,8 @@ The best way to reach me is by email.
 
 - **Email:** [jwvarga@me.com](mailto:jwvarga@me.com) 
 - **Phone** (541) 404-4052
-- **LinkedIn:** [https://www.linkedin.com/in/thejeffreyvarga/](https://www.linkedin.com/in/thejeffreyvarga/)
-- **Resume:** [Download Resume](assets/pdf/JeffreyVarga_Resume.pdf)
+- **LinkedIn:** [linkedin.com/in/thejeffreyvarga/](https://www.linkedin.com/in/thejeffreyvarga/)
+- **Resume:** [Download Resume](/workspaces/jeffreyvarga.github.io/assets/pdf/JeffreyVarga_Resume.pdf)
 
 ---
 
