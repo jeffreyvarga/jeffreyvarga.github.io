@@ -299,6 +299,11 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-weight: 700;
+
+    span {
+      font-weight: 700;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -532,8 +537,8 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        color: var(--global-theme-color) !important;
+        background-color: transparent !important;
       }
     }
   }
