@@ -11,22 +11,26 @@
 }
 
 // ── Subtitle ("GIS and Piano") ───────────────────────────
-// al-folio renders subtitle as .post-description or directly in the profile
-// The subtitle in about front matter renders inside a <p> tag just after h1
-.post header.post-header + p,
-.profile-subtitle {
+.about-subtitle {
   font-size: 1rem;
   font-weight: 600;
   color: var(--global-theme-color);
-  margin-bottom: 1.25rem;
   padding-left: 0.75rem;
   border-left: 3px solid var(--global-theme-color);
   display: inline-block;
+  line-height: 1.4;
+}
 
-  strong {
-    color: var(--global-theme-color);
-    font-weight: 600;
-  }
+// ── "About Me" section heading ───────────────────────────
+h2.about-section-heading {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--global-text-color);
+  margin-bottom: 1rem;
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--global-theme-color);
+  display: inline-block;
+  line-height: 1.4;
 }
 
 // ── Profile photo ────────────────────────────────────────
