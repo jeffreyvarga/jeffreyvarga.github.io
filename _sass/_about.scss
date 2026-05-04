@@ -60,7 +60,7 @@
   }
 }
 
-// ── HR dividers — decorative gradient fade ───────────────
+// ── HR dividers — decorative gradient fade (all pages) ───
 .post article hr,
 .post-content hr {
   border: none !important;
@@ -74,6 +74,13 @@
   ) !important;
   opacity: 0.35;
   margin: 2rem 0;
+}
+
+// ── About page only — constrain HR to text column width ──
+// Prevents the divider from clipping under the floated profile photo
+body.about .post article hr {
+  clear: none;
+  width: 70%;
 }
 
 // ── About body text ──────────────────────────────────────
