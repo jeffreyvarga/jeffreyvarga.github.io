@@ -26,14 +26,14 @@
 
   // ── Section header (Education, Experience, etc.) ─────────
   .card-title {
-    font-size: 0.7rem !important;
+    font-size: 1rem !important;
     font-weight: 700 !important;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #fff !important;
     background: var(--global-theme-color);
     margin: 0 !important;
-    padding: 0.6rem 1.4rem !important;
+    padding: 0.7rem 1.4rem !important;
     border-radius: 0 !important;
     opacity: 0.92;
   }
@@ -59,13 +59,23 @@
   .badge.danger-color-dark {
     background: transparent !important;
     color: var(--global-theme-color) !important;
-    font-size: 0.72rem !important;
+    font-size: 0.8rem !important;
     font-weight: 700 !important;
     letter-spacing: 0.03em;
     padding: 0 !important;
     text-align: left;
     white-space: normal;
     line-height: 1.4;
+    border: none !important;
+    box-shadow: none !important;
+    // Override MDB/Bootstrap badge background that's bleeding through
+    -webkit-box-shadow: none !important;
+  }
+
+  // Target the badge container cell too to strip any inherited background
+  .table-cv td {
+    background: transparent !important;
+    border: none !important;
   }
 
   // ── Entry title (degree / job title) ────────────────────
