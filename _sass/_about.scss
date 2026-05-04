@@ -12,9 +12,10 @@
 
 // ── Subtitle ("GIS and Piano") ───────────────────────────
 .about-subtitle {
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--global-theme-color);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--global-text-color);
+  margin-bottom: 1rem;
   padding-left: 0.75rem;
   border-left: 3px solid var(--global-theme-color);
   display: inline-block;
