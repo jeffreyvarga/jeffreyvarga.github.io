@@ -5,7 +5,7 @@ description: An analysis and case study of the social and ethical side of post-f
 img: assets/img/HFF/HFF_Cover.png
 importance: 5
 redirect: https://arcg.is/1izmne5
-category: work
+tags: ["communication", "ethics"]
 related_publications: false
 ---
 View the full Storymap here:
