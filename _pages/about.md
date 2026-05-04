@@ -26,8 +26,6 @@ latest_posts:
 ---
 GIS Analyst experienced in municipal planning support, housing needs analysis, and applied spatial modeling for public-sector decision-making. Experienced in spatial analysis, network modeling, geospatial data management, and cartographic communication. Produces GIS outputs that translate complex datasets into actionable insights for planners, advisory committees, and stakeholders in Oregon land use contexts. 
 
-<hr>
-
 <h2 class="about-section-heading">About Me</h2>
 
 Hello! my name is Jeffrey Varga. I am a recent graduate of Oregon State University with a degree in Geospatial Science, alongside a completed degree in Piano Performance. I also hold GIS certifications, reflecting a focused and applied background in geospatial analysis.
@@ -44,9 +42,9 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
 <section class="highlighted-projects mt-5">
 
-  <h2 class="section-heading">selected projects</h2>
+  <h2 class="section-heading">Featured Projects</h2>
   <p class="section-subheading">
-    A few things I've been working on.
+    A few recent projects of mine.
     <a href="{{ '/projects/' | relative_url }}">See all projects →</a>
   </p>
 
@@ -54,12 +52,12 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
 
     <!-- ── PROJECT 1 — replace with your real project ── -->
     <article class="hp-card">
-      <img src="{{ '/assets/img/projects/project-1-cover.png' | relative_url }}"
-           alt="Project 1 screenshot"
+      <img src="{{ '/assets/img/CHN/CHN_Cover.png' | relative_url }}"
+           alt="Project 1 IMG"
            class="hp-card__img" />
       <div class="hp-card__header">
         <span class="hp-tag">network analysis</span>
-        <span class="hp-tag">ArcGIS</span>
+        <span class="hp-tag">Urban Planning</span>
       </div>
       <h3 class="hp-card__title">Housing Accessibility Network Model</h3>
       <p class="hp-card__desc">
@@ -68,46 +66,35 @@ Outside of GIS, I am a classically trained pianist with extensive solo and colla
         demographic datasets for contextualized planning analysis.
       </p>
       <div class="hp-card__footer">
-        <a href="{{ '/projects/housing-accessibility/' | relative_url }}"
+        <a href="{{ '/projects/CHN/' | relative_url }}"
            class="hp-btn hp-btn--primary">
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
-        </a>
-        <a href="https://github.com/yourusername/housing-accessibility"
-           class="hp-btn hp-btn--ghost"
-           target="_blank" rel="noopener">
-          <i class="fa-brands fa-github" style="font-size:13px;"></i>
-          Code
         </a>
       </div>
     </article>
 
     <!-- ── PROJECT 2 — replace with your real project ── -->
     <article class="hp-card">
-      <img src="{{ '/assets/img/projects/project-2-cover.png' | relative_url }}"
-           alt="Project 2 screenshot"
+      <img src="{{ '/assets/img/GSL/GSL_Cover.png' | relative_url }}"
+           alt="Project 2 screIMGenshot"
            class="hp-card__img" />
       <div class="hp-card__header">
         <span class="hp-tag">spatial modeling</span>
         <span class="hp-tag">LiDAR</span>
+        <span class="hp-tag">remote sensing</span>
       </div>
       <h3 class="hp-card__title">Great Salt Lake Dust Dispersion Model</h3>
       <p class="hp-card__desc">
         Modeled dust dispersion from the shrinking Great Salt Lake using
-        LiDAR elevation data and atmospheric inputs to assess health and
+        LiDAR and atmospheric data interpolation to assess health and
         environmental risk across surrounding communities.
       </p>
       <div class="hp-card__footer">
-        <a href="{{ '/projects/great-salt-lake/' | relative_url }}"
+        <a href="{{ '/projects/GSL/' | relative_url }}"
            class="hp-btn hp-btn--primary">
           <i class="fa-solid fa-arrow-right" style="font-size:12px;"></i>
           Read more
-        </a>
-        <a href="https://github.com/yourusername/great-salt-lake"
-           class="hp-btn hp-btn--ghost"
-           target="_blank" rel="noopener">
-          <i class="fa-brands fa-github" style="font-size:13px;"></i>
-          Code
         </a>
       </div>
     </article>
