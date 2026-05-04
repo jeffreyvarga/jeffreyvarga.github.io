@@ -39,6 +39,11 @@ My project work further reflects this applied focus. Recent projects include mod
 
 Outside of GIS, I am a classically trained pianist with extensive solo and collaborative performance experience. I am also an Eagle Scout and a recipient of the Vigil Honor.
 
+  <p class="section-subheading">
+    View my complete GIS experience here.
+    <a href="{{ '/cv/' | relative_url }}">Curriculum Vitae →</a>
+  </p>
+
 <hr>
 
 <section class="highlighted-projects mt-5">
