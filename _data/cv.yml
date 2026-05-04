@@ -50,28 +50,6 @@
       items:
         - GIS Certificate of Completion
 
-- title: Honors and Activites
-  type: time_table
-  contents:
-    - year: 2026
-      items:
-        - OrUISA GIS in Action 2026 Attendee
-    - year: 2025
-      items:
-        - Presenter during Geography Awareness Week
-    - year: 2025
-      items:
-        - OrUISA GIS in Action 2025 Attendee
-    - year: 2023
-      items:
-        - Presenter at the American Fisheries Society Oregon Chapter meeting
-    - year: 2023
-      items:
-        - Vigil Honor, OA
-    - year: 2021
-      items:
-        - Eagle Scount
-
 - title: Skills
   type: nested_list
   contents:
@@ -97,3 +75,25 @@
         - RStudio
         - Blender
         - Git and GitHub
+        
+- title: Honors and Activites
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - OrUISA GIS in Action 2026 Attendee
+    - year: 2025
+      items:
+        - Presenter during Geography Awareness Week
+    - year: 2025
+      items:
+        - OrUISA GIS in Action 2025 Attendee
+    - year: 2023
+      items:
+        - Presenter at the American Fisheries Society Oregon Chapter meeting
+    - year: 2023
+      items:
+        - Vigil Honor, OA
+    - year: 2021
+      items:
+        - Eagle Scount
