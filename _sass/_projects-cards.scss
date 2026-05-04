@@ -19,6 +19,26 @@
     text-align: left; // override al-folio's right-align
   }
 
+  // ── Tag pills ─────────────────────────────────────────────
+  .project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 0.75rem;
+  }
+
+  .project-tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 100px;
+    background: var(--global-theme-color);
+    color: #fff;
+    opacity: 0.85;
+  }
+
   // ── Card ─────────────────────────────────────────────────
   a {
     text-decoration: none;
@@ -50,7 +70,7 @@
   // ── Cover image ───────────────────────────────────────────
   .card-img-top {
     width: 100%;
-    height: 100%;
+    height: 160px;
     object-fit: cover;
     display: block;
     border-radius: 0 !important; // overflow:hidden on card handles corners
@@ -73,9 +93,9 @@
 
   // ── Description ───────────────────────────────────────────
   .card-text {
-    font-size: 1.0rem;
+    font-size: 0.88rem;
     line-height: 1.65;
-    color: var(--global-text-color) !important;
+    color: var(--global-text-color-light) !important;
     margin-bottom: 0.75rem;
   }
 
