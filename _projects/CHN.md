@@ -9,7 +9,7 @@ tags: ["network analysis", "urban planning"]
 related_publications: false
 ---
 
-Work in progress.
+This page is still under construction.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
