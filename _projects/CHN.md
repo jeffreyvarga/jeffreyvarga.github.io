@@ -5,6 +5,9 @@ description: The City of Eugene's Contextualized Housing Need Locational Analysi
 img: assets/img/CHN/CHN_Cover.png
 importance: 1
 category: work
+tags:
+    network analysis
+    urban planning
 related_publications: false
 ---
 
