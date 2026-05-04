@@ -6,7 +6,7 @@ subtitle: <p><strong>GIS and Piano</strong>
 
 profile:
   align: right
-  image: prof_pic2.JPEG
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Corvallis, OR</p>
