@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of the projects I am most proud of.
+description: A handful of projects that showcase my GIS capabilities.
 nav: true
 display_categories: [work, fun]
 horizontal: false

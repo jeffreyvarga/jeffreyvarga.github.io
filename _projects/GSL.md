@@ -4,7 +4,7 @@ title: GSL Dust Transport Regime
 description: Dust Transport Regimes and Public Health Implications at the Great Salt Lake
 img: assets/img/GSL/GSL_Cover.png
 importance: 2
-category: work
+tags: ["spatial modeling", "lidar", "remote sensing"]
 related_publications: false
 ---
 The full project report can be found here:
