@@ -2,19 +2,18 @@
 layout: page
 title: Contact
 permalink: /contact/
-description: Get in touch
+description: Get in touch with me.
 nav: true
 nav_order: 4
 ---
 
-## Get in Touch
-
-I am currently seeking opportunities in geospatial analysis, GIS, and related fields.  
+I am currently seeking opportunities in geospatial analysis, urban planning, GIS, and related fields.  
 The best way to reach me is by email.
 
-- **Email:** [jwvarga@me.com](mailto:jwvarga@me.com)  
-- **LinkedIn:** https://www.linkedin.com/in/thejeffreyvarga/ 
-- **Resume:** /assets/pdf/JeffreyVarga_Resume.pdf  
+- **Email:** [jwvarga@me.com](mailto:jwvarga@me.com) 
+- **Phone** (541) 404-4052
+- **LinkedIn:** [https://www.linkedin.com/in/thejeffreyvarga/](https://www.linkedin.com/in/thejeffreyvarga/)
+- **Resume:** [Download Resume](assets/pdf/JeffreyVarga_Resume.pdf)
 
 ---
 
