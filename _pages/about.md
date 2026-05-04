@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span class="about-subtitle">GIS and Piano</span>
+
 
 profile:
   align: right
@@ -24,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<h2 class="about-section-heading">Professional Summary</h2>
+
 GIS Analyst experienced in municipal planning support, housing needs analysis, and applied spatial modeling for public-sector decision-making. Experienced in spatial analysis, network modeling, geospatial data management, and cartographic communication. Produces GIS outputs that translate complex datasets into actionable insights for planners, advisory committees, and stakeholders in Oregon land use contexts. 
 
 <h2 class="about-section-heading">About Me</h2>
